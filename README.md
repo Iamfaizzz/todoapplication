@@ -1,5 +1,4 @@
-Manage your tasks effortlessly with the JavaScript Todos List App. Organize, prioritize, and track your to-dos seamlessly using this user-friendly web application.
 # Tech Stack Used:
-- HTML
-- CSS
-- JS
+- HTML: Used to provide the basic structure of the Todo application.
+- CSS: Used to control presentation, formatting, and layout.
+- JS: Used to control the behaviour of different elements.
